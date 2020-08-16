@@ -1,0 +1,11 @@
+#about .about-col .title.hover {
+    color: #000000;
+    transition: color 0.15s linear;
+}
+
+#about .about-col:hover .title.hover {
+    color: #18d26e;
+    transition: color 0.15s linear;
+}
+
+
